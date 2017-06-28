@@ -1,0 +1,19 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:00 AM] At least one other instance of the launcher is running. Will wait until they all finish
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:01 AM] Service running in Emulator Mode, will not wait/kill other instances of the launcher
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:01 AM] Emulator config file set to c:\users\phdias\documents\visual studio 2017\Projects\AzureCloudServiceProject\AzureCloudServiceProject\csx\Debug\roles\Orquestrador\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:01 AM] DiagnosticsStoreRootPath set to: C:\Users\phdias\AppData\Local\dftmp\Resources\d3e6a514-dc84-49be-ab02-23687574ffad
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:01 AM] Loading config file: c:\users\phdias\documents\visual studio 2017\Projects\AzureCloudServiceProject\AzureCloudServiceProject\csx\Debug\roles\Orquestrador\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:01 AM] Config file to read: c:\users\phdias\documents\visual studio 2017\Projects\AzureCloudServiceProject\AzureCloudServiceProject\csx\Debug\roles\Orquestrador\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:01 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:01 AM] Emulator config file set to c:\users\phdias\documents\visual studio 2017\Projects\AzureCloudServiceProject\AzureCloudServiceProject\csx\Debug\roles\Orquestrador\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:01 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:01 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:01 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:01 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:01 AM] Found a DiagnosticsPlugin.exe. WadArguments: "C:\Users\phdias\Documents\Visual Studio 2017\Projects\AzureCloudServiceProject\AzureCloudServiceProject\csx\Debug\roles\Consumidor\plugins\Diagnostics\DiagnosticsPlugin.exe" DiagnosticPlugin-ShutdownEvent DiagnosticPlugin-TotalShutdownEvent -wadVer1v5.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:02 AM] Loading config file: c:\users\phdias\documents\visual studio 2017\Projects\AzureCloudServiceProject\AzureCloudServiceProject\csx\Debug\roles\Orquestrador\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:02 AM] Config file to read: c:\users\phdias\documents\visual studio 2017\Projects\AzureCloudServiceProject\AzureCloudServiceProject\csx\Debug\roles\Orquestrador\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:02 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:02 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:02 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:03 AM] Found a DiagnosticsPlugin.exe. WadArguments: "C:\Users\phdias\Documents\Visual Studio 2017\Projects\AzureCloudServiceProject\AzureCloudServiceProject\csx\Debug\roles\Consumidor\plugins\Diagnostics\DiagnosticsPlugin.exe" DiagnosticPlugin-ShutdownEvent DiagnosticPlugin-TotalShutdownEvent -wadVer1v5.

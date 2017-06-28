@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:47 AM] Emulator config file set to c:\users\phdias\documents\visual studio 2017\Projects\AzureCloudServiceProject\AzureCloudServiceProject\csx\Release\roles\Consumidor\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:47 AM] DiagnosticsStoreRootPath set to: C:\Users\phdias\AppData\Local\dftmp\Resources\23694845-46d0-4119-8844-12682787effd
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:47 AM] Loading config file: c:\users\phdias\documents\visual studio 2017\Projects\AzureCloudServiceProject\AzureCloudServiceProject\csx\Release\roles\Consumidor\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:47 AM] Config file to read: c:\users\phdias\documents\visual studio 2017\Projects\AzureCloudServiceProject\AzureCloudServiceProject\csx\Release\roles\Consumidor\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:47 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:47 AM] Emulator config file set to c:\users\phdias\documents\visual studio 2017\Projects\AzureCloudServiceProject\AzureCloudServiceProject\csx\Release\roles\Consumidor\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:47 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:47 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:47 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:47 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:47 AM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:47 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:48 AM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:48 AM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:57:48 AM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:58:59 AM] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 1:58:59 AM] DiagnosticPlugin exited with code 0
